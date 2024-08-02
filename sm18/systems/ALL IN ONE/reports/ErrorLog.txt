@@ -1,0 +1,2 @@
+8ÔÂ 01, 2024, 23:20:12:    Slot data element pointer mismatch .. Slot data: Element #0 .. Element ptr: Topic #142: .. (deleted) .. (18.05, Oct 29, 2020)
+Aug 01, 2024, 23:21:48:    Current concept is marked as deleted .. Choosing new concept:  .. "Audacity" (18.05, Oct 29, 2020)
