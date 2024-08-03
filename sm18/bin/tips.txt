@@ -1,13 +1,4 @@
  
-q: How can you make sure that you remember some fact?
-a: introduce it to SuperMemo
- 
-q: What is the name of a single piece of knowledge stored in SuperMemo?
-a: element (displayed in the element window)
- 
-q: How can you delete the currently displayed element (in SuperMemo)?
-a: (press) Del
- 
 q: How can you add a new element to SuperMemo?
 a: choose Add New (or press Alt+A)
  
@@ -75,4 +66,13 @@ a: revision (via spaced repetition)
  
 q: How does SuperMemo know when you will forget?
 a: by understanding memory and by studying how your memory works
+ 
+q: How can you make sure that you remember some fact?
+a: introduce it to SuperMemo
+ 
+q: What is the name of a single piece of knowledge stored in SuperMemo?
+a: element (displayed in the element window)
+ 
+q: How can you delete the currently displayed element (in SuperMemo)?
+a: (press) Del
  
