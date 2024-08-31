@@ -1,11 +1,11 @@
 SuperMemo Report
    Activity: Operation: forget elements
    Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
-   Date: Thursday, August 8, 2024, 6:05:14 PM
+   Date: Tuesday, August 20, 2024, 8:43:44 AM
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
 
-Process completed at 6:05:15 PM in 00:00:00 sec (Thursday, August 8, 2024)
+Process completed at 8:43:44 AM in 00:00:00 sec (Tuesday, August 20, 2024)
 
 NO ERRORS (Operation: forget elements)
 
