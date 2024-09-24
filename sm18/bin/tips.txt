@@ -1,34 +1,4 @@
  
-q: How can you always bring up the Question of the Day dialog?
-a: choose Help : Question of the Day
- 
-q: What do you need SuperMemo for?
-a: to learn fast and remember things for life
- 
-q: What main study technique does SuperMemo use to make sure you never forget your knowledge?
-a: revision (via spaced repetition)
- 
-q: How does SuperMemo know when you will forget?
-a: by understanding memory and by studying how your memory works
- 
-q: How can you make sure that you remember some fact?
-a: introduce it to SuperMemo
- 
-q: What is the name of a single piece of knowledge stored in SuperMemo?
-a: element (displayed in the element window)
- 
-q: How can you delete the currently displayed element (in SuperMemo)?
-a: (press) Del
- 
-q: How can you add a new element to SuperMemo?
-a: choose Add New (or press Alt+A)
- 
-q: How can you learn the elements stored in SuperMemo?
-a: choose Learn (or press Ctrl+L)
- 
-q: How can you see the function of a given button in SuperMemo?
-a: stop the mouse pointer over the button
- 
 q: How can you see the function of a given menu item in SuperMemo?
 a: select it and its description will be displayed on the status bar
  
@@ -73,4 +43,34 @@ a: (1) open the article in Internet Explorer, (2) use Ctrl+Shift+W
  
 q: How can you introduce Question of the Day into the learning process in SuperMemo?
 a: choose 'Remember'
+ 
+q: How can you always bring up the Question of the Day dialog?
+a: choose Help : Question of the Day
+ 
+q: What do you need SuperMemo for?
+a: to learn fast and remember things for life
+ 
+q: What main study technique does SuperMemo use to make sure you never forget your knowledge?
+a: revision (via spaced repetition)
+ 
+q: How does SuperMemo know when you will forget?
+a: by understanding memory and by studying how your memory works
+ 
+q: How can you make sure that you remember some fact?
+a: introduce it to SuperMemo
+ 
+q: What is the name of a single piece of knowledge stored in SuperMemo?
+a: element (displayed in the element window)
+ 
+q: How can you delete the currently displayed element (in SuperMemo)?
+a: (press) Del
+ 
+q: How can you add a new element to SuperMemo?
+a: choose Add New (or press Alt+A)
+ 
+q: How can you learn the elements stored in SuperMemo?
+a: choose Learn (or press Ctrl+L)
+ 
+q: How can you see the function of a given button in SuperMemo?
+a: stop the mouse pointer over the button
  

@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: c:\users\19596\downloads\adveng+sm18+บบปฏ\advanced english 2018\adveng2018\adveng 2018
+   Date: Tuesday, April 27, 2021, 7:44:28 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Retention data errors can be ignored
+
+Process completed at 7:44:28 PM in 00:00:00 sec (Tuesday, April 27, 2021)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
