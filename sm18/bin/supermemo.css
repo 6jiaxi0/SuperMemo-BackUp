@@ -1,11 +1,11 @@
 BODY
 {
-background-color: #FFF2E2;
-FONT-FAMILY:  Times Ten LT Std + FZYouSongS R;
+BACKGROUND-COLOR: #C7EDCC;
+COLOR: #000000;
+FONT-FAMILY: TIMES TEN LT STD + FZYOUSONGS R;
+FONT-STYLE: normal;
+FONT-WEIGHT: normal;
 FONT-SIZE: 13pt;
-overflow: scroll;
-height: 100%;
-padding: 1em 10% 0 10%;
 }	
 
 html {
