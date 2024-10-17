@@ -81,3 +81,5 @@ Aug 17, 2024, 15:18:45:    Slot data element pointer mismatch .. Slot data: Elem
 Aug 17, 2024, 15:20:50:    Error pasting content .. Cannot open clipboard: 拒绝访问。 (18.05, Oct 29, 2020)
 Aug 18, 2024, 22:05:28:    Cannot retrieve browser text .. Address=file://D:\阅读记录\认知觉醒-周岭\OEBPS\Text\part0004.xhtml .. Cannot open clipboard: 拒绝访问。 (18.05, Oct 29, 2020)
 Aug 18, 2024, 22:06:44:    Cannot retrieve browser text .. Address=file://D:\阅读记录\认知觉醒-周岭\OEBPS\Text\part0004.xhtml .. Cannot open clipboard: 拒绝访问。 (18.05, Oct 29, 2020)
+Oct 15, 2024, 21:51:28:    Cannot compute repetition outcomes .. Invalid floating point operation (18.05, Oct 29, 2020)
+Oct 15, 2024, 21:51:29:    Error committing element optimization data .. Range check error (18.05, Oct 29, 2020)
