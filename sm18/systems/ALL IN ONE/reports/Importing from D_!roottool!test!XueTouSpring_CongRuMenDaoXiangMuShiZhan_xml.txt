@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\XueTouSpring_CongRuMenDaoXiangMuShiZhan.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Thursday, October 17, 2024, 8:37:09 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #462: 学透Spring：从入门到项目实战
+
+
+Process completed at 8:37:48 PM in 00:00:39 sec (Thursday, October 17, 2024)
+
+NO ERRORS (Importing from D:\roottool\test\XueTouSpring_CongRuMenDaoXiangMuShiZhan.xml)
+
+____________________________________________________________
