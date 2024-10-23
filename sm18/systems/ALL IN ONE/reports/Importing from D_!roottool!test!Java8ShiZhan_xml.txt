@@ -1,0 +1,8 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\Java8ShiZhan.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Wednesday, October 23, 2024, 4:02:24 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #346: java8ʵս
+
