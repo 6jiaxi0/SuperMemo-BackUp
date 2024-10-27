@@ -88,3 +88,4 @@ Oct 23, 2024, 16:02:03:    Element missing from the priority queue .. Concept #5
 Oct 23, 2024, 16:02:10:    Text registry error! .. Cannot find deleted member in the registry index: Text #1483: java8ʵս (18.05, Oct 29, 2020)
 Oct 23, 2024, 16:04:18:    Element missing from the priority queue .. Concept #346: java8ʵս ..  .. Setting the maximum priority! (18.05, Oct 29, 2020)
 Oct 23, 2024, 16:04:30:    Element missing from the priority queue .. Concept #346: java8ʵս ..  .. Setting the maximum priority! (18.05, Oct 29, 2020)
+Oct 23, 2024, 21:16:12:    Text registry error! .. Cannot find deleted member in the registry index: Text #1485: java8ʵս (18.05, Oct 29, 2020)

@@ -1,0 +1,110 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\SiKao,KuaiYuMan.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: 2024年10月26日, 20:05:06
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #552: 思考,快与慢
+
+Dismissing Topic #700: 序言
+
+Dismissing Topic #701: 第一部分 系统1，系统2
+
+Dismissing Topic #702: 第1章 一张愤怒的脸和一道乘法题
+
+Dismissing Topic #703: 第2章 电影的主角与配角
+
+Dismissing Topic #704: 第3章 惰性思维与延迟满足的矛盾
+
+Dismissing Topic #705: 第4章 联想的神奇力量
+
+Dismissing Topic #706: 第5章 你的直觉有可能只是错觉
+
+Dismissing Topic #707: 第6章 意料之外与情理之中
+
+Dismissing Topic #708: 第7章 字母“B”与数字“13”
+
+Dismissing Topic #709: 第8章 我们究竟是如何作出判断的？
+
+Dismissing Topic #710: 第9章 目标问题与启发性问题形影不离
+
+Dismissing Topic #711: 第二部分 启发法与偏见
+
+Dismissing Topic #712: 第10章 大数法则与小数定律
+
+Dismissing Topic #419: 第11章 锚定效应在生活中随处可见
+
+Dismissing Topic #713: 第12章 科学地利用可得性启发法
+
+Dismissing Topic #714: 第13章 焦虑情绪与风险政策的设计
+
+Dismissing Topic #715: 第14章 猜一下，汤姆的专业是什么？
+
+Dismissing Topic #147: 第15章 琳达问题的社会效应
+
+Dismissing Topic #716: 第16章 因果关系比统计学信息更具说服力
+
+Dismissing Topic #717: 第17章 所有表现都会回归平均值
+
+Dismissing Topic #718: 第18章 如何让直觉性预测更恰当有效？
+
+Dismissing Topic #719: 第三部分过度自信与决策错误
+
+Dismissing Topic #720: 第19章 “知道”的错觉
+
+Dismissing Topic #721: 第20章 未来是不可预测的
+
+Dismissing Topic #722: 第21章 直觉判断与公式运算，孰优孰劣？
+
+Dismissing Topic #723: 第22章 什么时候可以相信专家的直觉？
+
+Dismissing Topic #724: 第23章 努力养成采纳外部意见的决策习惯
+
+Dismissing Topic #725: 第24章 乐观主义是一柄双刃剑
+
+Dismissing Topic #726: 第四部分 选择与风险
+
+Dismissing Topic #727: 第25章 事关风险与财富的抉择
+
+Dismissing Topic #728: 第26章 更人性化的前景理论
+
+Dismissing Topic #729: 第27章 禀赋效应与市场交易
+
+Dismissing Topic #463: 第28章 公平性—经济交易的参照点
+
+Dismissing Topic #730: 第29章 对结果可能性的权衡
+
+Dismissing Topic #731: 第30章 被过分关注的罕见事件
+
+Dismissing Topic #732: 第31章 能带来长远收益的风险政策
+
+Dismissing Topic #733: 第32章 心理账户是如何影响我们的选择的？
+
+Dismissing Topic #734: 第33章 评估结果的逆转
+
+Dismissing Topic #735: 第34章 善用框架效应，让生活更美好
+
+Dismissing Topic #736: 第五部分 两个自我
+
+Dismissing Topic #737: 第35章 体验效用与决策效用的不一致
+
+Dismissing Topic #738: 第36章 人生如戏
+
+Dismissing Topic #739: 第37章 你有多幸福？
+
+Dismissing Topic #740: 第38章 思考生活
+
+Dismissing Topic #741: 结语
+
+Dismissing Topic #742: 附录A 不确定性下的判断：启发法和偏见
+
+Dismissing Topic #743: 附录B 选择、价值以及框架
+
+Dismissing Topic #291: 致谢
+
+
+Process completed at 20:05:09 in 00:00:02 sec (2024年10月26日)
+
+NO ERRORS (Importing from D:\roottool\test\SiKao,KuaiYuMan.xml)
+
+____________________________________________________________
