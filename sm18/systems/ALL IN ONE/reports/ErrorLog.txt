@@ -89,3 +89,4 @@ Oct 23, 2024, 16:02:10:    Text registry error! .. Cannot find deleted member in
 Oct 23, 2024, 16:04:18:    Element missing from the priority queue .. Concept #346: java8实战 ..  .. Setting the maximum priority! (18.05, Oct 29, 2020)
 Oct 23, 2024, 16:04:30:    Element missing from the priority queue .. Concept #346: java8实战 ..  .. Setting the maximum priority! (18.05, Oct 29, 2020)
 Oct 23, 2024, 21:16:12:    Text registry error! .. Cannot find deleted member in the registry index: Text #1485: java8实战 (18.05, Oct 29, 2020)
+Nov 03, 2024, 08:22:45:    Element missing from the priority queue .. Topic #434: 那么，为什么这些可信度高、适用范围广的结论更容易产生临界知识呢？ 这个问题要从临界知识的本质特征说起。其实临界知识的思想，核心是用更加可靠学科的研究方法、思想和结论来处理没那么可靠的领域的问题。简言之，就是解决问题最稳妥的办法是拿可信度更高的方法去处理问题。 ..  .. Setting the maximum priority! (18.05, Oct 29, 2020)

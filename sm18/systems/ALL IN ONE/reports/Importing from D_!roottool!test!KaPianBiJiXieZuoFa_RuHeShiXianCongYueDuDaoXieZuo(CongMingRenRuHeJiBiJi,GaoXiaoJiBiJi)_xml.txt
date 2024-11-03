@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\KaPianBiJiXieZuoFa_RuHeShiXianCongYueDuDaoXieZuo(CongMingRenRuHeJiBiJi,GaoXiaoJiBiJi).xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Saturday, November 2, 2024, 4:38:28 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #789: 卡片笔记写作法：如何实现从阅读到写作（聪明人如何记笔记，高效记笔记）
+
+
+Process completed at 4:38:31 PM in 00:00:03 sec (Saturday, November 2, 2024)
+
+NO ERRORS (Importing from D:\roottool\test\KaPianBiJiXieZuoFa_RuHeShiXianCongYueDuDaoXieZuo(CongMingRenRuHeJiBiJi,GaoXiaoJiBiJi).xml)
+
+____________________________________________________________
