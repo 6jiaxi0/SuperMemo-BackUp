@@ -1,11 +1,11 @@
 SuperMemo Report
    Activity: Operation: dismiss elements
    Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
-   Date: Tuesday, November 5, 2024, 1:16:48 PM
+   Date: 2024年11月13日, 11:24:05
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
 
-Process completed at 1:16:48 PM in 00:00:00 sec (Tuesday, November 5, 2024)
+Process completed at 11:24:05 in 00:00:00 sec (2024年11月13日)
 
 NO ERRORS (Operation: dismiss elements)
 
