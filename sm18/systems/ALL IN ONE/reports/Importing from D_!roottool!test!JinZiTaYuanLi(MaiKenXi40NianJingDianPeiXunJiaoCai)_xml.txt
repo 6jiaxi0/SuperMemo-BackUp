@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\JinZiTaYuanLi(MaiKenXi40NianJingDianPeiXunJiaoCai).xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Wednesday, November 27, 2024, 9:38:06 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #1,103: 金字塔原理（麦肯锡40年经典培训教材）
+
+
+Process completed at 9:38:14 PM in 00:00:08 sec (Wednesday, November 27, 2024)
+
+NO ERRORS (Importing from D:\roottool\test\JinZiTaYuanLi(MaiKenXi40NianJingDianPeiXunJiaoCai).xml)
+
+____________________________________________________________
