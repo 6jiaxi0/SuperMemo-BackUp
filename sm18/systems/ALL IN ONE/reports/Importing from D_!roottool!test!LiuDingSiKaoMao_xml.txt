@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\LiuDingSiKaoMao.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Thursday, December 5, 2024, 3:28:36 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #1,146: Áù¶¥Ë¼¿¼Ã±
+
+
+Process completed at 3:28:38 PM in 00:00:01 sec (Thursday, December 5, 2024)
+
+NO ERRORS (Importing from D:\roottool\test\LiuDingSiKaoMao.xml)
+
+____________________________________________________________
