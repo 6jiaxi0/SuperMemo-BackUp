@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\NaoDeYueDu_PoJieRenLeiYueDuZhiMi(ZhuMingRenZhiShenJingKeXueJiaDiAngRenNaoYueDuFangMianZhuoYueYanJiu).xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Thursday, December 26, 2024, 12:28:04 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #1,301: 腦的閱讀：破解人類閱讀之謎（著名認知神經科學家迪昂人腦閱讀方面卓越研究）
+
+
+Process completed at 12:28:18 PM in 00:00:14 sec (Thursday, December 26, 2024)
+
+NO ERRORS (Importing from D:\roottool\test\NaoDeYueDu_PoJieRenLeiYueDuZhiMi(ZhuMingRenZhiShenJingKeXueJiaDiAngRenNaoYueDuFangMianZhuoYueYanJiu).xml)
+
+____________________________________________________________
