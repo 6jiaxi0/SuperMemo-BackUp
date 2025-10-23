@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\NaoYuYueDu_PoJieRenLeiYueDuZhiMi.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Wednesday, January 1, 2025, 9:42:42 AM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #1,349: 脑与阅读：破解人类阅读之迷
+
+
+Process completed at 9:43:00 AM in 00:00:18 sec (Wednesday, January 1, 2025)
+
+NO ERRORS (Importing from D:\roottool\test\NaoYuYueDu_PoJieRenLeiYueDuZhiMi.xml)
+
+____________________________________________________________

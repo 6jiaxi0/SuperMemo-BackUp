@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\LiJingPanDao_BuAnChangLiChuPaiDeRenRuHeGaiBianShiJie.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Thursday, February 27, 2025, 9:12:43 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #1,774: 离经叛道：不按常理出牌的人如何改变世界
+
+
+Process completed at 9:12:48 PM in 00:00:04 sec (Thursday, February 27, 2025)
+
+NO ERRORS (Importing from D:\roottool\test\LiJingPanDao_BuAnChangLiChuPaiDeRenRuHeGaiBianShiJie.xml)
+
+____________________________________________________________

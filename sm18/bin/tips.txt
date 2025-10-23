@@ -1,31 +1,4 @@
  
-q: How can you recover a SuperMemo collection in case its files were damaged?
-a: run File : Repair collection (or press Ctrl+F12)
- 
-q: How can you review your learning material in a SuperMemo collection?
-a: choose Learn (or press Ctrl+L)
- 
-q: How can you search for a given text in the entire SuperMemo collection?
-a: press Ctrl+F (shortcut for Search : Find elements)
- 
-q: How can you add a picture to a SuperMemo element?
-a: 1. copy the picture to the clipboard, 2. paste the picture with Ctrl+V or Shift+Ins in SuperMemo
- 
-q: How can I add a sound component to a SuperMemo element?
-a: choose Edit : Add components : Sound
- 
-q: How can I make sure that a given look of an element is used each time I choose Add New?
-a: use Template : Save as default (after creating a new look)
- 
-q: What is incremental reading used for?
-a: Reading, and learning, from thousands of articles in parallel (www.super-memory.com/help/read.htm)
- 
-q: Which stage of the learning process does incremental reading accelerate?
-a: comprehension
- 
-q: How can I add an article to SuperMemo for incremental reading?
-a: 1. copy the article to the clipboard, 2. paste it with Ctrl+N
- 
 q: How can I swap the question with the answer?
 a: press Ctrl+Shift+S
  
@@ -73,4 +46,28 @@ a: SuperMemo collection
  
 q: How can you make a copy of a SuperMemo collection?
 a: choose File : Copy collection (or press Ctrl+Shift+C)
+ 
+q: How can you recover a SuperMemo collection in case its files were damaged?
+a: run File : Repair collection (or press Ctrl+F12)
+ 
+q: How can you review your learning material in a SuperMemo collection?
+a: choose Learn (or press Ctrl+L)
+ 
+q: How can you search for a given text in the entire SuperMemo collection?
+a: press Ctrl+F (shortcut for Search : Find elements)
+ 
+q: How can I add a sound component to a SuperMemo element?
+a: choose Edit : Add components : Sound
+ 
+q: How can I make sure that a given look of an element is used each time I choose Add New?
+a: use Template : Save as default (after creating a new look)
+ 
+q: What is incremental reading used for?
+a: Reading, and learning, from thousands of articles in parallel (www.super-memory.com/help/read.htm)
+ 
+q: Which stage of the learning process does incremental reading accelerate?
+a: comprehension
+ 
+q: How can I add an article to SuperMemo for incremental reading?
+a: 1. copy the article to the clipboard, 2. paste it with Ctrl+N
  
