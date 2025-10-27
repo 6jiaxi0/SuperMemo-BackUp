@@ -1,13 +1,13 @@
 SuperMemo Report
    Activity: Importing from D:\roottool\test\XinZiYouZhuYiJianShi.xml
    Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
-   Date: Wednesday, October 22, 2025, 8:06:38 PM
+   Date: Monday, October 27, 2025, 1:43:21 PM
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
-Dismissing Concept #1,716: 新自由主义简史
+Dismissing Concept #169: 新自由主义简史
 
 
-Process completed at 8:06:49 PM in 00:00:10 sec (Wednesday, October 22, 2025)
+Process completed at 1:43:33 PM in 00:00:12 sec (Monday, October 27, 2025)
 
 NO ERRORS (Importing from D:\roottool\test\XinZiYouZhuYiJianShi.xml)
 

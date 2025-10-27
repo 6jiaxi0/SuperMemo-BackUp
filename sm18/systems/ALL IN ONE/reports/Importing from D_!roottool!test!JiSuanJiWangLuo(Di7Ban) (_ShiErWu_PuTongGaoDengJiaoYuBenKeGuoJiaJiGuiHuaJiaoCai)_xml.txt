@@ -1,13 +1,13 @@
 SuperMemo Report
    Activity: Importing from D:\roottool\test\JiSuanJiWangLuo(Di7Ban) (_ShiErWu_PuTongGaoDengJiaoYuBenKeGuoJiaJiGuiHuaJiaoCai).xml
    Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
-   Date: Thursday, February 27, 2025, 10:29:57 AM
+   Date: Friday, October 24, 2025, 9:03:46 PM
    SuperMemo 18 (Build 18.05, Oct 29, 2020)
 
-Dismissing Concept #1,557: 计算机网络（第7版） ("十二五"普通高等教育本科国家级规划教材)
+Dismissing Concept #1,177: 计算机网络（第7版） ("十二五"普通高等教育本科国家级规划教材)
 
 
-Process completed at 10:30:00 AM in 00:00:03 sec (Thursday, February 27, 2025)
+Process completed at 9:03:55 PM in 00:00:08 sec (Friday, October 24, 2025)
 
 NO ERRORS (Importing from D:\roottool\test\JiSuanJiWangLuo(Di7Ban) (_ShiErWu_PuTongGaoDengJiaoYuBenKeGuoJiaJiGuiHuaJiaoCai).xml)
 

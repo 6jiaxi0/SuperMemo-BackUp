@@ -1,31 +1,4 @@
  
-q: How can I swap the question with the answer?
-a: press Ctrl+Shift+S
- 
-q: How can I import an article from Wikipedia?
-a: (1) open the article in Internet Explorer, (2) use Ctrl+Shift+W
- 
-q: How can you introduce Question of the Day into the learning process in SuperMemo?
-a: choose 'Remember'
- 
-q: How can you always bring up the Question of the Day dialog?
-a: choose Help : Question of the Day
- 
-q: What do you need SuperMemo for?
-a: to learn fast and remember things for life
- 
-q: What main study technique does SuperMemo use to make sure you never forget your knowledge?
-a: revision (via spaced repetition)
- 
-q: How does SuperMemo know when you will forget?
-a: by understanding memory and by studying how your memory works
- 
-q: How can you make sure that you remember some fact?
-a: introduce it to SuperMemo
- 
-q: What is the name of a single piece of knowledge stored in SuperMemo?
-a: element (displayed in the element window)
- 
 q: How can you delete the currently displayed element (in SuperMemo)?
 a: (press) Del
  
@@ -70,4 +43,31 @@ a: comprehension
  
 q: How can I add an article to SuperMemo for incremental reading?
 a: 1. copy the article to the clipboard, 2. paste it with Ctrl+N
+ 
+q: How can I swap the question with the answer?
+a: press Ctrl+Shift+S
+ 
+q: How can I import an article from Wikipedia?
+a: (1) open the article in Internet Explorer, (2) use Ctrl+Shift+W
+ 
+q: How can you introduce Question of the Day into the learning process in SuperMemo?
+a: choose 'Remember'
+ 
+q: How can you always bring up the Question of the Day dialog?
+a: choose Help : Question of the Day
+ 
+q: What do you need SuperMemo for?
+a: to learn fast and remember things for life
+ 
+q: What main study technique does SuperMemo use to make sure you never forget your knowledge?
+a: revision (via spaced repetition)
+ 
+q: How does SuperMemo know when you will forget?
+a: by understanding memory and by studying how your memory works
+ 
+q: How can you make sure that you remember some fact?
+a: introduce it to SuperMemo
+ 
+q: What is the name of a single piece of knowledge stored in SuperMemo?
+a: element (displayed in the element window)
  
