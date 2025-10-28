@@ -1,7 +1,4 @@
  
-q: How can you delete the currently displayed element (in SuperMemo)?
-a: (press) Del
- 
 q: How can you add a new element to SuperMemo?
 a: choose Add New (or press Alt+A)
  
@@ -70,4 +67,7 @@ a: introduce it to SuperMemo
  
 q: What is the name of a single piece of knowledge stored in SuperMemo?
 a: element (displayed in the element window)
+ 
+q: How can you delete the currently displayed element (in SuperMemo)?
+a: (press) Del
  
