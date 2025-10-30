@@ -1,7 +1,4 @@
  
-q: How can you learn the elements stored in SuperMemo?
-a: choose Learn (or press Ctrl+L)
- 
 q: How can you see the function of a given button in SuperMemo?
 a: stop the mouse pointer over the button
  
@@ -70,4 +67,7 @@ a: (press) Del
  
 q: How can you add a new element to SuperMemo?
 a: choose Add New (or press Alt+A)
+ 
+q: How can you learn the elements stored in SuperMemo?
+a: choose Learn (or press Ctrl+L)
  
