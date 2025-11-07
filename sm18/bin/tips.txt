@@ -1,10 +1,4 @@
  
-q: How can you see the function of a given button in SuperMemo?
-a: stop the mouse pointer over the button
- 
-q: How can you see the function of a given menu item in SuperMemo?
-a: select it and its description will be displayed on the status bar
- 
 q: What is the name of a collection of elements in SuperMemo?
 a: SuperMemo collection
  
@@ -70,4 +64,10 @@ a: choose Add New (or press Alt+A)
  
 q: How can you learn the elements stored in SuperMemo?
 a: choose Learn (or press Ctrl+L)
+ 
+q: How can you see the function of a given button in SuperMemo?
+a: stop the mouse pointer over the button
+ 
+q: How can you see the function of a given menu item in SuperMemo?
+a: select it and its description will be displayed on the status bar
  
