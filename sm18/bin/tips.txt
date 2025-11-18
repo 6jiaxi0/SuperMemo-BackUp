@@ -1,7 +1,4 @@
  
-q: What is the name of a collection of elements in SuperMemo?
-a: SuperMemo collection
- 
 q: How can you make a copy of a SuperMemo collection?
 a: choose File : Copy collection (or press Ctrl+Shift+C)
  
@@ -70,4 +67,7 @@ a: stop the mouse pointer over the button
  
 q: How can you see the function of a given menu item in SuperMemo?
 a: select it and its description will be displayed on the status bar
+ 
+q: What is the name of a collection of elements in SuperMemo?
+a: SuperMemo collection
  
