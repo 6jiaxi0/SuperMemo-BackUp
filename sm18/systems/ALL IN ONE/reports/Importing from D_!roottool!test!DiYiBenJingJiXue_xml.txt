@@ -1,0 +1,14 @@
+SuperMemo Report
+   Activity: Importing from D:\roottool\test\DiYiBenJingJiXue.xml
+   Collection: d:\supermemo\sm18\sm18-lazy-package-1.3.1\supermemo-backup\sm18\systems\all in one
+   Date: Wednesday, November 19, 2025, 6:36:06 PM
+   SuperMemo 18 (Build 18.05, Oct 29, 2020)
+
+Dismissing Concept #1,066: 第一本经济学
+
+
+Process completed at 6:36:34 PM in 00:00:27 sec (Wednesday, November 19, 2025)
+
+NO ERRORS (Importing from D:\roottool\test\DiYiBenJingJiXue.xml)
+
+____________________________________________________________
